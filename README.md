@@ -12,5 +12,3 @@ I'm **Chester** - just a devops engineer from Singapore.
 + [feast-dev/feast](https://github.com/feast-dev/feast)
 + [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bushwhackr&" alt="bushwhackr" /></p>
-
